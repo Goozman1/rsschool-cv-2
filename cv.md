@@ -4,15 +4,15 @@ ___
 ___
 
 #### Contacts:
-* email: divangsm@gmail.com 
 * discord: GoozMan1
 * github: Goozman1
 * telegram: @alex_goozman
+* email: divangsm@gmail.com 
 
 ___
 
 #### About me:
-I want to change my business completely. At the moment, I'm the chief engineer in a construction organization. Very responsible, honest, I communicate well with people. At the moment, I want to fulfill my dream and untie myself from my location by working anywhere in the world.
+
 
 ___
 
@@ -25,23 +25,19 @@ ___
 
 ___
 
-#### Example code:
+#### Code example:
 
-```function duplicateEncode(word){
-    let arrX = []
-    let arr = word.toLowerCase().split('')
-    for (i=0; i < arr.length; i++){
-    if (arr.indexOf(arr[i]) == arr.lastIndexOf(arr[i])){
-        arrX.push("(")
-        } else { arrX.push(")")
-        }}
-  return arrX.join('')}
 ```
+public static int linearSearch(int arr[], int elementToSearch)
+{
 
-___
-
-#### Work experience:
-* None
+for (int index = 0; index < arr.length; index++) {
+    if (arr[index] == elementToSearch)
+        return index;
+}
+return -1;
+}
+```
 
 ___
 
@@ -54,8 +50,8 @@ ___
 ___
 
 #### IT courses: 
-Started learning Html,CSS and JS about 150 o'clock.
-* Rolling Scopes - Pre-School 2022 Q2
+Started learning Html,CSS and JS about 100 o'clock.
+* Rolling Scopes - Pre-School 2022 Q4
 * fructcode.com - HTML/CSS advanced
 * ru.code-basic.com - HTML basic
 * ru.code-basic.com - CSS basic
@@ -64,7 +60,7 @@ Started learning Html,CSS and JS about 150 o'clock.
 ___
 
 #### English:
-A2 with a stretch. I'm learning English at now, but i need more time.
+A1 with a stretch. I'm learning English at now, but i need more time.
 
 
 
